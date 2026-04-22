@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Mohammad Sadegh Eshaghi is currently a Ph.D. candidate at Leibniz University Hannover. He completed his master’s degree in structural engineering at K.N. Toosi University from 2014 to 2017. He has worked as a researcher at the International Center for Numerical Methods in Engineering (CIMNE) in Spain and in Prof. Rabczuk’s group at the Institute of Structural Mechanics in Germany. His research interests include the integration of Deep Learning and Computational Mechanics.
+Mohammad Sadegh Eshaghi is currently a Ph.D. candidate in Computational Physics and Scientific Machine Learning, at Leibniz University Hannover. He completed his bachelor’s degree at Amirkabir University of Technology and earned his master’s degree in engineering at K. N. Toosi University of Technology. He has worked as a researcher at the International Center for Numerical Methods in Engineering [(CIMNE)](https://cimne.com/) in Spain and in [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en)’s group at the Institute of Structural Mechanics in Germany. His research interests include the integration of Deep Learning and Computational Mechanics (AI4Science).
 
-My research interests include AI4Science and Scientific Machine Learning. I have published more than 10 papers at the top international journals with total <a href='https://scholar.google.com/citations?user=ZA_nLX4AAAAJ'>google scholar citations <strong><span id='total_cit'>300+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=ZA_nLX4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research interests include AI4Science and Scientific Machine Learning. He has published more than 10 papers at the top international journals with total <a href='https://scholar.google.com/citations?user=ZA_nLX4AAAAJ'>google scholar citations <strong><span id='total_cit'>300+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=ZA_nLX4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
