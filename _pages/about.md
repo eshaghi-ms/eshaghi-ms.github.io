@@ -33,7 +33,7 @@ His work aims to develop efficient and scalable computational models for complex
 Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
 
 [**PDF**](https://arxiv.org/abs/2511.02481) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We propose Neural Operator Warm Starts (NOWS), a hybrid strategy that harnesses learned solution operators to accelerate classicaliterative solvers by producing high-quality initial guesse.
+-   We propose Neural Operator Warm Starts (NOWS), a hybrid strategy that harnesses learned solution operators to accelerate classical iterative solvers by producing high-quality initial guesses for Krylov methods such as conjugate gradient and GMRES. NOWS integrates seamlessly with existing discretizations (finite-difference, finite-element, isogeometric analysis, finite volume method, etc.), consistently reducing iteration counts and computational time by up to 90%, while preserving the stability and convergence guarantees of traditional numerical algorithms.
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xia
 Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
 
 [**PDF**](https://arxiv.org/pdf/2507.17763) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We introduce the Multi-Head Neural Operator (MHNO), a novel neural operator architecture built to handle long temporal dynamics. MHNO uses time-step-specific projections and message-passing-inspired connections to model full time evolution in a single forward pass.
+-   We introduce the Multi-Head Neural Operator (MHNO), a novel neural operator architecture specifically designed to address temporal challenges in solving time-dependent PDEs governing interfacial dynamics. MHNO employs time-step-specific projection operators and message-passing-inspired connections to predict all time steps in a single forward pass, effectively capturing long-term dependencies while avoiding error accumulation and parameter overgrowth. Applied to phase field equations including antiphase boundary motion, spinodal decomposition, pattern formation, and molecular beam epitaxy growth, MHNO achieves superior accuracy, scalability, and efficiency compared to existing neural operator methods.
 </div>
 </div>
 
@@ -55,12 +55,12 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/VINO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Variational Physics-informed Neural Operator (VINO) for Solving Partial Differential Equations](https://arxiv.org/abs/2411.06587)
+[Variational Physics-informed Neural Operator (VINO) for Solving Partial Differential Equations](https://www.sciencedirect.com/science/article/pii/S004578252500057X)
 
 **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Manish Thombre, Yizheng Wang, Xiaoying Zhuang, Timon Rabczuk
 
 [**PDF**](https://arxiv.org/pdf/2411.06587) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  VINO is a method for solving PDEs by integrating neural operators with variational principles and physics-informed learning. This framework can be trained without any labeled data, resulting in improved performance and accuracy compared to existing deep learning methods and conventional PDE solvers. By discretizing the domain into elements, the variational format allows VINO to overcome the key challenge in physics-informed neural operators, namely the efficient evaluation of the governing equations for computing the loss.
+-  We propose the Variational Physics-Informed Neural Operator (VINO), a deep learning method designed for solving PDEs by minimizing the energy formulation of PDEs through the integration of neural operators with variational principles and physics-informed learning. This framework can be trained without any labeled data, significantly reducing computational costs when exploring various scenarios such as changes in initial/boundary conditions or different input configurations. By discretizing the domain into elements, the variational format allows VINO to overcome the key challenge in physics-informed neural operators—the efficient evaluation of governing equations for computing the loss—while demonstrating superior performance especially as mesh resolution increases, opening a new approach for modeling nonlinear and complex processes in science and engineering.
 </div>
 </div>
 
@@ -68,12 +68,12 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/PENCO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PENCO: A Physics-Energy-Numerical-Consistent Operator for 3D Phase Field Modeling](https://www.sciencedirect.com/science/article/pii/S0925231224018903)
+[PENCO: A Physics-Energy-Numerical-Consistent Operator for 3D Phase Field Modeling](https://www.sciencedirect.com/science/article/pii/S0045782526001362)
 
 Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, Timon Rabczuk
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
+-  We propose PENCO (Physics–Energy–Numerics–Consistent Operator), a hybrid operator-learning framework that integrates physical laws with data-driven neural operators (FNO-4D or MHNO) for solving spatiotemporal PDEs in phase-field modeling. PENCO introduces an enhanced H¹ Gauss–Lobatto collocation residual for robust enforcement of governing dynamics, a Fourier-space numerical consistency term capturing semi-implicit discretization behavior, and an energy-dissipation constraint ensuring thermodynamic consistency. Through extensive 3D phase-field benchmarks covering phase ordering, crystallization, epitaxial growth, and pattern formation, PENCO demonstrates superior accuracy, stability, and data efficiency compared to state-of-the-art neural operators while preventing temporal error accumulation and maintaining physically consistent evolution over long temporal horizons.
 </div>
 </div>
 
@@ -110,7 +110,7 @@ Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, T
 **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Timon Rabczuk
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
+-  This paper presents a comprehensive literature review on methods for enabling real-time analysis in digital twins—virtual models of physical systems. We systematically review and categorize methods and tools for reducing computational demands, accelerating the modeling of physical phenomena, and addressing challenges such as real-time data analysis, resource limitations, and data uncertainty to support cost reduction, risk mitigation, efficiency enhancement, and decision-making in digital twin implementations.
 </div>
 </div>
 
@@ -123,7 +123,7 @@ Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, T
 **Mohammad Sadegh Eshaghi**, Mostafa Bamdad, Cosmin Anitescu, Yizheng Wang, Xiaoying Zhuang, Timon Rabczuk
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
+-  We investigate and compare different Scientific Machine Learning (SciML) approaches for analyzing functionally graded (FG) porous beams with arbitrary continuous material property variations. We implement three formulations: (a) the vector approach leading to Physics-Informed Neural Networks (PINNs), (b) the energy approach resulting in the Deep Energy Method (DEM), and (c) the data-driven approach yielding Neural Operator methods. A neural operator is trained to predict beam response under any porosity distribution pattern and arbitrary traction conditions, with results validated against analytical and numerical reference solutions.
 </div>
 </div>
 
@@ -142,12 +142,12 @@ Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/GSD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Machine learning-based estimation of soil’s true air-entry value from GSD curves](https://www.sciencedirect.com/science/article/pii/S1342937X22001885)
+[Machine learning-based estimation of soil's true air-entry value from GSD curves](https://www.sciencedirect.com/science/article/pii/S1342937X22001885)
 
 **Mohammad Sadegh Eshaghi**, Mohammad Rezania, Meghdad Bagheri
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
+-  We develop a machine learning predictive model for estimating the true air-entry value (AEV) of soils from grain size distribution (GSD) curves using the UNSODA database of 790 soil samples. The model incorporates bulk density and GSD parameters to predict true AEV from water content-based soil water retention curves (SWRCs), achieving high accuracy with R² values of 0.964, 0.901, and 0.851 for training, validation, and testing data respectively. Sensitivity analysis reveals that particle sizes of 50 and 250 µm have the highest impact on AEV estimation.
 </div>
 </div>
 
@@ -159,7 +159,15 @@ Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, T
 **Mohammad Sadegh Eshaghi**, Mohammad Sadegh Barkhordari, Zhenyu Huang, Jianqiao Ye
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
+
+- This study investigates retrofitting strategies for high-rise reinforced concrete (RC) buildings with shear walls
+  subjected to seismic loads. Four buildings (15, 20, 25, and 30 stories) were equipped with passive energy dissipation
+  devices and analyzed under far-field and near-field earthquake records from FEMA P-695. Using validated numerical
+  models, structural responses (drift, acceleration, velocity, displacement, and base shear) were evaluated and ranked
+  through Multicriteria Decision Making (MCDM) methods. The analysis identified friction dampers as the most effective
+  passive seismic control system for retrofitting high-rise RC wall buildings, providing optimal performance across the
+  considered criteria and enhancing building resilience in earthquake-prone regions.
+
 </div>
 </div>
 
@@ -183,7 +191,18 @@ Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, T
 **Mohammad Sadegh Eshaghi**, Mohsen Abbaspour, Timon Rabczuk
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
+
+- This study employs finite-element limit analysis (FELA) to predict the undrained seismic bearing capacity and failure
+  mechanisms of shallow strip footings on cohesive soils (both homogeneous and heterogeneous) placed above unsupported
+  rectangular voids. The research computes upper and lower bounds across comprehensive ranges of geometries, horizontal
+  earthquake accelerations, material properties, and void configurations. Through parametric studies, the work
+  identifies four distinct failure modes: (1) footing bearing failure without void failure, (2) footing bearing failure
+  with roof void failure, (3) footing bearing failure with side and roof void failure, and (4) void collapse without
+  bearing failure. These modes depend on void conditions, earthquake acceleration, and soil characteristics. Sensitivity
+  analysis reveals that void depth and soil undrained shear strength are the most critical parameters affecting ultimate
+  footing bearing capacity. The study culminates in design tables enabling rapid prediction of bearing capacity for
+  desired footing configurations.
+
 </div>
 </div>
 
@@ -195,7 +214,16 @@ Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, T
 **Mohammad Sadegh Eshaghi**, Mohsen Abbaspour, Hamidreza Abbasianjahromi, Stefano Mariani
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
+
+- This paper presents a machine learning framework for predicting the seismic bearing capacity of shallow strip footings
+  positioned above voids in heterogeneous soil. Using a dataset of 38,000 finite element limit analysis simulations,
+  three ML techniques were compared: multilayer perceptron neural networks, group method of data handling, and
+  adaptive-network-based fuzzy inference system with particle swarm optimization. The study accounts for variations in
+  soil properties (undrained shear strength and internal friction angle), horizontal earthquake accelerations, and void
+  characteristics (position, shape, and size). Results demonstrated that all ML techniques performed well, with the
+  multilayer perceptron achieving the highest accuracy (R² = 0.9955, RMSE = 0.0158), offering a robust alternative to
+  complex analytical models for this challenging geotechnical problem.
+
 </div>
 </div>
 
@@ -208,7 +236,16 @@ Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, T
 Mohammad Sadegh Barkhordari, **Mohammad Sadegh Eshaghi**
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
+
+- This study evaluates machine learning and hybrid models—specifically regression models, artificial neural networks (
+  ANN), and an ANN-Simulated Annealing (ANN-SA) hybrid—for predicting seismic responses of reinforced concrete shear
+  walls under strong ground motions. Using OpenSees, four buildings (15, 20, 25, and 30 stories) with concrete shear
+  walls were analyzed with 150 seismic records to create a comprehensive database linking record characteristics (
+  maximum acceleration, velocity, and earthquake properties) to structural responses. The models' accuracy in predicting
+  shear wall responses was compared, and sensitivity analysis identified key input variables influencing seismic demand.
+  Results demonstrate that the ANN-SA model achieves reasonable accuracy in prediction, offering valuable insights for
+  designing, assessing, and planning recovery strategies for buildings in earthquake-prone regions.
+
 </div>
 </div>
 
@@ -220,7 +257,15 @@ Mohammad Sadegh Barkhordari, **Mohammad Sadegh Eshaghi**
 **Mohammad Sadegh Eshaghi**,  Aydin Shishegaran, Timon Rabczuk
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
+
+- We propose a novel Asymmetric Genetic Algorithm (AGA) for optimizing steel frame structures by minimizing total weight
+  under AISC ultimate load constraints. AGA employs a developed penalty function to find optimal population generations
+  and selects cross-sectional areas from AISC side-flange shape steel sections using finite element analysis. Applied to
+  a 15-storey three-bay steel planar frame and five additional numerical examples, AGA outperforms existing algorithms (
+  PSO, PSOPC, HPSACO, ICA, CSS, GA, and SAP2000 optimization modules) by reducing computational time, number of
+  analyses, and total weight—achieving 11.1% and 26.4% weight reduction compared to SAP2000 for regular and irregular
+  steel frames, respectively.
+
 </div>
 </div>
 
@@ -231,8 +276,16 @@ Mohammad Sadegh Barkhordari, **Mohammad Sadegh Eshaghi**
 Isa Ebtehaj, Hossein Bonakdari, Mir Jafar Sadegh Safari, Bahram Gharabaghi, Amir Hossein Zaji, Hossien Riahi Madavar, Zohreh Sheikh Khozani, **Mohammad Sadegh Eshaghi**, Aydin Shishegaran, Ali Danandeh Mehr
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
-</div>
+
+- This study addresses sediment deposition in lined open channels by developing a novel methodology that combines
+  sensitivity and uncertainty analyses with machine learning to model sediment transport under non-deposition conditions
+  in sewer and drainage systems. Using 127 models with one to seven dimensionless parameters and four evaluation
+  strategies, the research identifies that a model with volumetric sediment concentration (CV) and relative particle
+  size (d/R) as independent parameters best predicts the densimetric Froude number (Fr), achieving MARE of 0.1 and RMSE
+  of 0.67. The approach integrates uncertainty analysis via 95% predicted uncertainty bounds (95PPU) to assess model
+  credibility, providing engineers with a robust tool for determining limiting velocities that maintain clean channel
+  bottoms and optimize urban drainage system design.
+
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -242,8 +295,15 @@ Isa Ebtehaj, Hossein Bonakdari, Mir Jafar Sadegh Safari, Bahram Gharabaghi, Amir
 Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshaghi** 
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
-</div>
+
+- We present a hybrid ANFIS-PSO (Adaptive Neuro-Fuzzy Inference System with Particle Swarm Optimization) model to
+  estimate the minimum densimetric Froude number for sediment transport in channel pipes without deposition. The PSO
+  algorithm optimizes fuzzy membership function parameters while the ANFIS framework models the complex relationship
+  between input parameters and sediment transport conditions. Tested on three independent datasets across varying
+  conditions, the ANFIS-PSO approach (R² = 0.976, RMSE = 0.260, MAPE = 5.743) significantly outperforms standard ANFIS
+  and existing regression-based equations from literature, demonstrating superior accuracy and reliability for
+  predicting sediment transport thresholds in sewer and drainage systems.
+
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -253,15 +313,22 @@ Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshaghi**
 Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshaghi** 
 
 [**PDF**](https://Pdf Link) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Explanation
-</div>
-</div>
 
+- We develop predictive models using machine learning techniques (Gene Expression Programming, Extreme Learning Machine,
+  Generalized Structure Group Method of Data Handling, and Fuzzy c-means based ANFIS) to estimate sediment transport in
+  open channels. Using four comprehensive datasets covering wide ranges of pipe sizes, sediment characteristics, channel
+  slopes, and flow conditions, the machine learning approaches demonstrate superior performance over conventional
+  regression models. The GS-GMDH model achieves the best results due to its generalized structure, with a practical
+  MATLAB implementation provided for engineering applications. This data-driven approach addresses the complexity of
+  sediment transport phenomena by incorporating fundamental characteristics of fluid, flow, sediment, and channel
+  parameters.
+
+</div>
 
 
 # 📝 Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/XDEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/EDEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Unified AI-Driven Fracture Mechanics: TheExtended Deep Energy Method (XDEM)](https://arxiv.org/abs/2511.05888)
