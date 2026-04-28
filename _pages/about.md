@@ -30,7 +30,7 @@ His work aims to develop efficient and scalable computational models for complex
 
 [NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers](https://arxiv.org/abs/2511.02481)
 
-Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
+**Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, Yizheng Wang, Xiaoying Zhuang, Timon Rabczuk
 
 [**PDF**](https://arxiv.org/pdf/2511.02481) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -   We propose Neural Operator Warm Starts (NOWS), a hybrid strategy that harnesses learned solution operators to accelerate classical iterative solvers by producing high-quality initial guesses for Krylov methods such as conjugate gradient and GMRES. NOWS integrates seamlessly with existing discretizations (finite-difference, finite-element, isogeometric analysis, finite volume method, etc.), consistently reducing iteration counts and computational time by up to 90%, while preserving the stability and convergence guarantees of traditional numerical algorithms.
@@ -43,7 +43,7 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xia
 
 [Multi-Head Neural Operator for Modelling Interfacial Dynamics](https://doi.org/10.1016/j.ijmecsci.2026.111363)
 
-Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
+**Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, Yizheng Wang, Xiaoying Zhuang, Timon Rabczuk
 
 [**PDF**](https://arxiv.org/pdf/2507.17763) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -   We introduce the Multi-Head Neural Operator (MHNO), a novel neural operator architecture specifically designed to address temporal challenges in solving time-dependent PDEs governing interfacial dynamics. 
@@ -83,7 +83,7 @@ Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, T
 
 [Artificial intelligence for partial differential equations in computational mechanics: A review](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4071710/1232570/Artificial-Intelligence-For-Partial-Differential?searchresult=1)
 
-**Yizheng Wang**, Jinshuai Bai, Zhongya Lin, Qimin Wang, Cosmin Anitescu, Jia Sun, Mohammad Sadegh Eshaghi, Yuantong Gu, Xi-Qiao Feng, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
+Yizheng Wang, Jinshuai Bai, Zhongya Lin, Qimin Wang, Cosmin Anitescu, Jia Sun, **Mohammad Sadegh Eshaghi**, Yuantong Gu, Xi-Qiao Feng, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
 [**PDF**](https://arxiv.org/pdf/2410.19843) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  We review AI for PDEs in computational mechanics, including solid mechanics, fluid mechanics, and biomechanics.
 </div>
@@ -95,7 +95,7 @@ Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, T
 
 [Kolmogorov Arnold Informed neural network: A physics-informed deep learning framework for solving PDEs based on Kolmogorov Arnold Networks](https://www.sciencedirect.com/science/article/pii/S0045782524007722)
 
-**Yizheng Wang**, Jia Sun, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
+Yizheng Wang, Jia Sun, Jinshuai Bai, Cosmin Anitescu, **Mohammad Sadegh Eshaghi**, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
 
 [**PDF**](https://arxiv.org/pdf/2406.11045) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  We propose different PDE forms based on KAN instead of MLP, termed Kolmogorov-Arnold-Informed Neural Network (KINN). We systematically compare MLP and KAN in various numerical examples of PDEs, including multi-scale, singularity, stress concentration, nonlinear hyperelasticity, heterogeneous, and complex geometry problems. Our results demonstrate that KINN significantly outperforms MLP in terms of accuracy and convergence speed for numerous PDEs in computational solid mechanics, except for the complex geometry problem. This highlights KINN's potential for more efficient and accurate PDE solutions in AI for PDEs.
@@ -132,7 +132,7 @@ Mostafa Bamdad, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, T
 
 [Transfer Learning in Physics-Informed Neural Networks: Full Fine-Tuning, Lightweight FineTuning, and Low-Rank Adaptation](https://onlinelibrary.wiley.com/doi/10.1002/msd2.70030)
 
-**Yizheng Wang**, Jinshuai Bai, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
+Yizheng Wang, Jinshuai Bai, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
 
 [**PDF**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/msd2.70030) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  We explore the generalization capability of transfer learning in the strong and energy form of PINNs across different boundary conditions, materials, and geometries. The transfer learning methods we employ include full finetuning, lightweight finetuning, and Low-Rank Adaptation (LoRA).
@@ -280,7 +280,7 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 
 [Towards Unified AI-Driven Fracture Mechanics: TheExtended Deep Energy Method (XDEM)](https://arxiv.org/abs/2511.05888)
 
-**Yizheng Wang**, Yuzhou Lin, Somdatta Goswami, Luyang Zhao, Huadong Zhang, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+Yizheng Wang, Yuzhou Lin, Somdatta Goswami, Luyang Zhao, Huadong Zhang, Jinshuai Bai, Cosmin Anitescu, **Mohammad Sadegh Eshaghi**, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
 
 [**PDF**](https://arxiv.org/pdf/2511.05888) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -   We propose Extended Deep Energy Method (XDEM), a unified deep learning framework that incorporates both displacement discontinuities and crack-tip asymptotics in the discrete setting, while flexibly coupling displacement and phase fields in the continuous setting.
@@ -293,7 +293,7 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 
 [Pretrain Finite Element Method: A Pretraining and Warm-start Framework for PDEs via Physics-Informed Neural Operators](https://arxiv.org/abs/2601.03086)
 
-**Yizheng Wang**, Zhongkai Hao, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+Yizheng Wang, Zhongkai Hao, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
 
 [**PDF**](https://arxiv.org/pdf/2601.03086) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -   We propose a Pretrained Finite Element Method (PFEM),a physics driven framework that bridges the efficiency of neural operator learning with the accuracy and robustness of classical finite element methods (FEM).
@@ -307,7 +307,7 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 
 [Deep Energy Method with Large Language Model assistance: an open-source Streamlit-based platform for solving variational PDEs](https://arxiv.org/abs/2602.07838)
 
-**Yizheng Wang**, Cosmin Anitescu, Mohammad Sadegh Eshaghi,  Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+Yizheng Wang, Cosmin Anitescu, **Mohammad Sadegh Eshaghi**,  Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
 
 [**PDF**](https://arxiv.org/pdf/2602.07838) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -   We present LM-DEM(Large-Model-assisted Deep Energy Method), an open-source, Streamlit-based platform for solving variationalpartial differential equations (PDEs) in computational mechanics.
