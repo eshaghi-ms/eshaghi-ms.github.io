@@ -327,7 +327,14 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 - *09/2013 – 02/2017*, **M.Sc. in Structural Engineering**, K.N.Toosi University of Technology, Iran. Thesis: Optimizing 3D Steel Moment frame by Artificial Intelligence Algorithms
 - *09/2008 – 09/2013*, **B.Sc. in Civil Engineering**, Amirkabir University of Technology, Iran
 
+# 💬 Invited Talks
+- *Dec. 2025*, **NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers**, SMaRT Seminar, Johns Hopkins University – IIT Delhi Joint Scientific Machine Learning Research Talks, hosted by Dr. Somdatta Goswami [\[GitHub\]](https://github.com/JHU-IITD-SMaRT) [\[video\]](https://www.youtube.com/watch?v=FiUO_Mxsopk)
+- *Nov. 2024*, **Variational Physics-Informed Neural Operator (VINO) for Solving Partial Differential Equations**, CRUNCH Seminar, Brown University, organized by Prof. George Karniadakis [\[video\]](https://youtu.be/yaU5gWIWn_M?feature=shared)
+- *Nov. 2022*, **Machine Learning-Based Estimation of Soil's True Air-Entry Value**, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications [\[link\]](https://www.issmge.org/article/issmge-tc309-technical-forum-of-young-scholars-on-datadriven-modelling-of-soil-behaviours-with-geotechnical-applications)
 
+# 🎤 Conference Proceedings
+- M. S. Eshaghi, N. Valizadeh, X. Zhuang, and T. Rabczuk, "Phase field modeling with neural operators," in *XI International Conference on Coupled Problems in Science and Engineering (COUPLED 2025)*, CIMNE, May 2025 [\[link\]](https://coupled2025.cimne.com/)
+- M. S. Eshaghi and M. Sarcheshmehpour, "A novel strategy for tall building optimization via the combination of AGA and machine learning methods," in *Computer Sciences & Mathematics Forum*, MDPI, vol. 2, 2021, p. 4 [\[DOI\]](https://doi.org/10.3390/IOCA2021-10882)
 
 # 💼 Work Experience
 - *11/2022 – 10/2023*, **Researcher**, Institute of Structural Mechanics (ISM), Bauhaus-University Weimar, Germany
@@ -356,13 +363,3 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 # 📜 Certifications
 - *2016-Present*, Membership in Iran Construction Engineering Organization (IRCEO)
 - *2023*, Programming with Python, Webinar participation certificate (16 hours)
-
-# 💬 Invited Talks
-- *Dec. 2025*, **NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers**, SMaRT Seminar, Johns Hopkins University – IIT Delhi Joint Scientific Machine Learning Research Talks, hosted by Dr. Somdatta Goswami [\[GitHub\]](https://github.com/JHU-IITD-SMaRT)
-- *Nov. 2024*, **Variational Physics-Informed Neural Operator (VINO) for Solving Partial Differential Equations**, CRUNCH Seminar, Brown University, organized by Prof. George Karniadakis [\[video\]](https://youtu.be/yaU5gWIWn_M?feature=shared)
-- *Nov. 2022*, **Machine Learning-Based Estimation of Soil's True Air-Entry Value**, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications [\[link\]](https://www.issmge.org/article/issmge-tc309-technical-forum-of-young-scholars-on-datadriven-modelling-of-soil-behaviours-with-geotechnical-applications)
-
-# 🎤 Conference Proceedings
-- M. S. Eshaghi, N. Valizadeh, X. Zhuang, and T. Rabczuk, "Phase field modeling with neural operators," in *XI International Conference on Coupled Problems in Science and Engineering (COUPLED 2025)*, CIMNE, May 2025 [\[link\]](https://coupled2025.cimne.com/)
-- M. S. Eshaghi and M. Sarcheshmehpour, "A novel strategy for tall building optimization via the combination of AGA and machine learning methods," in *Computer Sciences & Mathematics Forum*, MDPI, vol. 2, 2021, p. 4 [\[DOI\]](https://doi.org/10.3390/IOCA2021-10882)
-
