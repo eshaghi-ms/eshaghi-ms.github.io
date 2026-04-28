@@ -25,7 +25,7 @@ His work aims to develop efficient and scalable computational models for complex
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/NOWS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/NOWS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers](https://arxiv.org/abs/2511.02481)
@@ -52,7 +52,7 @@ His work aims to develop efficient and scalable computational models for complex
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/VINO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/VINO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Variational Physics-informed Neural Operator (VINO) for Solving Partial Differential Equations](https://www.sciencedirect.com/science/article/pii/S004578252500057X)
@@ -65,7 +65,7 @@ His work aims to develop efficient and scalable computational models for complex
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/PENCO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/PENCO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PENCO: A Physics-Energy-Numerical-Consistent Operator for 3D Phase Field Modeling](https://www.sciencedirect.com/science/article/pii/S0045782526001362)
@@ -102,7 +102,7 @@ Yizheng Wang, Jia Sun, Jinshuai Bai, Cosmin Anitescu, **Mohammad Sadegh Eshaghi*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/DT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Structures</div><img src='images/DT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Methods for enabling real-time analysis in digital twins: A literature review](https://www.sciencedirect.com/science/article/pii/S0045794924000713)
@@ -115,7 +115,7 @@ Yizheng Wang, Jia Sun, Jinshuai Bai, Cosmin Anitescu, **Mohammad Sadegh Eshaghi*
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/DeepBeam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/DeepBeam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Applications of scientific machine learning for the analysis of functionally graded porous beams](https://www.sciencedirect.com/science/article/pii/S0925231224018903)
@@ -140,7 +140,7 @@ Yizheng Wang, Jinshuai Bai, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Xiaoyi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/GSD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Gondwana Research</div><img src='images/GSD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Machine learning-based estimation of soil's true air-entry value from GSD curves](https://www.sciencedirect.com/science/article/pii/S1342937X22001885)
@@ -152,7 +152,7 @@ Yizheng Wang, Jinshuai Bai, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Xiaoyi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/MDMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Structural Engineering</div><img src='images/MDMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multicriteria decision-making methods in selecting seismic upgrading strategy of high-rise RC wall buildings](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003304)
