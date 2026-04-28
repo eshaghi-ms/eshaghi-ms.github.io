@@ -316,8 +316,6 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 </div>
 
 
-
-{% comment %}
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -326,18 +324,43 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Travel Grant from the Graduate Academy of Leibniz University Hannover to attend the XI. International Conference on Coupled Problems in Villasimius, Italy
+- *2022* DAAD Award, German Academic Exchange Service (DAAD) PhD Scholarship
+- *2021* VAC-2021-42, Selected for VAC-2021-42 position in CIMNE (Spain)
+- *2021* Guangdong (China) Government Outstanding International Student Scholarship
+- *2003* Ranked in the top 0.05% nationwide in the 2003 Iranian National University Entrance Exam (Konkur), Mathematics track
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *03/2023 – Present*, **Ph.D. in Computational Physics**, Leibniz University Hannover, Germany. Thesis: Deep Learning based solutions of Partial Differential Equations (PDEs)
+- *06/2021 – 12/2021*, **Ph.D. in Mechanical Engineering**, Shenzhen University, China (not continued due to COVID-19 pandemic). Thesis: Development of Machine Learning tools in design of offshore structure
+- *09/2013 – 02/2017*, **M.Sc. in Structural Engineering**, K.N.Toosi University of Technology, Iran. Thesis: Optimizing 3D Steel Moment frame by Artificial Intelligence Algorithms
+- *09/2008 – 09/2013*, **B.Sc. in Civil Engineering**, Amirkabir University of Technology, Iran
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💼 Work Experience
+- *11/2022 – 10/2023*, **Researcher**, Institute of Structural Mechanics (ISM), Bauhaus-University Weimar, Germany
+- *01/2022 – 11/2022*, **Researcher**, International Center for Numerical Method in Engineering (CIMNE), Universidad Politécnica de Madrid (UPM), Spain
+- *02/2017 – 12/2021*, **Programmer**, Beton Pazhohan Iranian Consulting Engineers, Iran
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎓 Teaching Experience
+- *2025*, **Teaching Assistant**, Scientific Machine Learning, Leibniz University Hannover
+- *2024-2026*, **Teaching Assistant**, Fracture Mechanics, Leibniz University Hannover
+- *2023*, **Online Course Creator**, Programming in MATLAB: A Comprehensive Guide (18 hours of video content)
+- *2022*, **Instructor**, Introduction to MATLAB for Civil Engineers, Civil Engineering Scientific Association
+- *2016-2018*, **Teaching Assistant**, K.N.Toosi University of Technology
+- *2009-2012*, **Mathematics Teacher**, First-grade high school students, Imam Hadi High School
 
-{% endcomment %}
+# 🔧 Skills
+**Languages:** English (Fluent), German (A2), Persian (Native), Azari (Native)
+**Programming:** MATLAB, Python, Java, C++, Git, LaTeX, LSF
+**Machine Learning:** TensorFlow, PyTorch, JAX, Scikit-Learn, Keras
+**Engineering Software:** AutoCAD, SAP2000, ETABS, SAFE, ABAQUS, OpenSees, COMFAR, EPANET
+**Databases:** MySQL, SQL Server
+**Other Tools:** Camtasia Studio, Adobe Premiere Pro, Adobe InDesign, Adobe Photoshop, GraphPad Prism
+
+# 📋 Professional Service
+**Journal Reviewer (2021-2025):** Archives of Computational Methods in Engineering, Mechanical Systems and Signal Processing, IEEE Transactions on Artificial Intelligence, Applied Physics, IEEE Journal of Selected Topics in Signal Processing, Engineering Geology, IEEE Transactions on Industrial Electronics, Underground Space, IEEE Transactions on Industrial Informatics, European Journal of Mechanics - A/Solids, International Journal of Geomechanics, Computers in Biology and Medicine, Discover Nano, AIMS Mathematics, Journal of Materials Engineering and Performance, Journal of Structural Engineering, International Journal of Mechanical System Dynamics, Mechanics Based Design Of Structures And Machines, International Journal of Steel Structures, Scientific Reports, KSCE Journal of Civil Engineering, JMIR Cardio, Multiscale and Multidisciplinary Modeling, Experiments and Design, Frontiers of Structural and Civil Engineering, Fluid Dynamics Research, Quantum Information Processing
+
+# 📜 Certifications
+- *2016-Present*, Membership in Iran Construction Engineering Organization (IRCEO)
+- *2023*, Programming with Python, Webinar participation certificate (16 hours)
+
