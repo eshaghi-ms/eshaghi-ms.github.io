@@ -3,9 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Publications"
     url: "/#-publications"
 
@@ -21,5 +18,17 @@ main:
   - title: "Conference"
     url: "/#-conference"
 
-  - title: "Professional Experience"
-    url: "/#-professional-experience"
+  - title: "Work Experience"
+    url: "/#-work-experience"
+
+  - title: "Teaching Experience"
+    url: "/#-teaching-experience"
+
+  - title: "Skills"
+    url: "/#-skills"
+
+  - title: "Professional Service"
+    url: "/#-professional-Service"
+
+  - title: "Certifications"
+    url: "/#-certifications"

@@ -235,7 +235,6 @@ Mohammad Sadegh Barkhordari, **Mohammad Sadegh Eshaghi**
 - We propose a novel Asymmetric Genetic Algorithm (AGA) for optimizing steel frame structures by minimizing total weight under AISC ultimate load constraints. AGA employs a developed penalty function to find optimal population generations and selects cross-sectional areas from AISC side-flange shape steel sections using finite element analysis. Applied to a 15-storey three-bay steel planar frame and five additional numerical examples, AGA outperforms existing algorithms.
 
 </div>
-</div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -315,14 +314,6 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 </div>
 </div>
 
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2025* Travel Grant from the Graduate Academy of Leibniz University Hannover to attend the XI. International Conference on Coupled Problems in Villasimius, Italy
 - *2022* DAAD Award, German Academic Exchange Service (DAAD) PhD Scholarship
@@ -330,11 +321,13 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 - *2021* Guangdong (China) Government Outstanding International Student Scholarship
 - *2003* Ranked in the top 0.05% nationwide in the 2003 Iranian National University Entrance Exam (Konkur), Mathematics track
 
-# 📖 Education
+# 📖 Educations
 - *03/2023 – Present*, **Ph.D. in Computational Physics**, Leibniz University Hannover, Germany. Thesis: Deep Learning based solutions of Partial Differential Equations (PDEs)
 - *06/2021 – 12/2021*, **Ph.D. in Mechanical Engineering**, Shenzhen University, China (not continued due to COVID-19 pandemic). Thesis: Development of Machine Learning tools in design of offshore structure
 - *09/2013 – 02/2017*, **M.Sc. in Structural Engineering**, K.N.Toosi University of Technology, Iran. Thesis: Optimizing 3D Steel Moment frame by Artificial Intelligence Algorithms
 - *09/2008 – 09/2013*, **B.Sc. in Civil Engineering**, Amirkabir University of Technology, Iran
+
+
 
 # 💼 Work Experience
 - *11/2022 – 10/2023*, **Researcher**, Institute of Structural Mechanics (ISM), Bauhaus-University Weimar, Germany
@@ -363,4 +356,13 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 # 📜 Certifications
 - *2016-Present*, Membership in Iran Construction Engineering Organization (IRCEO)
 - *2023*, Programming with Python, Webinar participation certificate (16 hours)
+
+# 💬 Invited Talks
+- *Dec. 2025*, **NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers**, SMaRT Seminar, Johns Hopkins University – IIT Delhi Joint Scientific Machine Learning Research Talks, hosted by Dr. Somdatta Goswami [\[GitHub\]](https://github.com/JHU-IITD-SMaRT)
+- *Nov. 2024*, **Variational Physics-Informed Neural Operator (VINO) for Solving Partial Differential Equations**, CRUNCH Seminar, Brown University, organized by Prof. George Karniadakis [\[video\]](https://youtu.be/yaU5gWIWn_M?feature=shared)
+- *Nov. 2022*, **Machine Learning-Based Estimation of Soil's True Air-Entry Value**, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications [\[link\]](https://www.issmge.org/article/issmge-tc309-technical-forum-of-young-scholars-on-datadriven-modelling-of-soil-behaviours-with-geotechnical-applications)
+
+# 🎤 Conference Proceedings
+- M. S. Eshaghi, N. Valizadeh, X. Zhuang, and T. Rabczuk, "Phase field modeling with neural operators," in *XI International Conference on Coupled Problems in Science and Engineering (COUPLED 2025)*, CIMNE, May 2025 [\[link\]](https://coupled2025.cimne.com/)
+- M. S. Eshaghi and M. Sarcheshmehpour, "A novel strategy for tall building optimization via the combination of AGA and machine learning methods," in *Computer Sciences & Mathematics Forum*, MDPI, vol. 2, 2021, p. 4 [\[DOI\]](https://doi.org/10.3390/IOCA2021-10882)
 
