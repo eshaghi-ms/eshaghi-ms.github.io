@@ -15,17 +15,8 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Conference"
-    url: "/#-conference"
-
   - title: "Work Experience"
     url: "/#-work-experience"
-
-  - title: "Teaching Experience"
-    url: "/#-teaching-experience"
-
-  - title: "Skills"
-    url: "/#-skills"
 
   - title: "Professional Service"
     url: "/#-professional-Service"
