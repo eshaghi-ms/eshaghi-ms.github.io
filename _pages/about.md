@@ -166,7 +166,7 @@ Yizheng Wang, Jinshuai Bai, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Xiaoyi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ETL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Civil Engineering and Management</div><img src='images/ETL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhanced teacher-learning based algorithm in real size structural optimization](https://journals.vilniustech.lt/index.php/JCEM/article/view/16387)
@@ -180,7 +180,7 @@ Yizheng Wang, Jinshuai Bai, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Xiaoyi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/FFPA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Geomechanics</div><img src='images/FFPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Factors and failure patterns analysis for undrained seismic bearing capacity of strip footing above void](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GM.1943-5622.0002166)
@@ -194,7 +194,7 @@ Yizheng Wang, Jinshuai Bai, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Xiaoyi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Machine_Learning-Based_Prediction.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algorithms</div><img src='images/Machine_Learning-Based_Prediction.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Machine learning-based prediction of the seismic bearing capacity of a shallow strip footing over a void in heterogeneous soils](https://www.mdpi.com/1999-4893/14/10/288)
@@ -209,7 +209,7 @@ Yizheng Wang, Jinshuai Bai, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Xiaoyi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/IJE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJE</div><img src='images/IJE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Straightforward prediction for responses of the concrete shear wall buildings subject to ground motions using machine learning algorithms](https://www.ije.ir/article_132523.html)
@@ -228,6 +228,8 @@ Mohammad Sadegh Barkhordari, **Mohammad Sadegh Eshaghi**
 
 [Evaluation of a novel Asymmetric Genetic Algorithm to optimize the structural design of 3D regular and irregular steel frames](https://link.springer.com/article/10.1007/s11709-020-0643-2)
 
+*Frontiers of Structural and Civil Engineering*
+
 **Mohammad Sadegh Eshaghi**,  Aydin Shishegaran, Timon Rabczuk
 
 [**PDF**](https://link.springer.com/content/pdf/10.1007/s11709-020-0643-2.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -239,6 +241,8 @@ Mohammad Sadegh Barkhordari, **Mohammad Sadegh Eshaghi**
 <div class='paper-box-text' markdown="1">
 
 [Combination of sensitivity and uncertainty analyses for sediment transport modeling in sewer pipes](https://www.sciencedirect.com/science/article/pii/S1001627918303810)
+
+*International Journal of Sediment Research*
 
 Isa Ebtehaj, Hossein Bonakdari, Mir Jafar Sadegh Safari, Bahram Gharabaghi, Amir Hossein Zaji, Hossien Riahi Madavar, Zohreh Sheikh Khozani, **Mohammad Sadegh Eshaghi**, Aydin Shishegaran, Ali Danandeh Mehr
 
@@ -252,6 +256,8 @@ Isa Ebtehaj, Hossein Bonakdari, Mir Jafar Sadegh Safari, Bahram Gharabaghi, Amir
 
 [Design of a hybrid ANFIS–PSO model to estimate sediment transport in open channels](https://link.springer.com/article/10.1007/s40996-018-0218-9)
 
+*Iranian Journal of Science and Technology, Transactions of Civil Engineering*
+
 Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshaghi** 
 
 [**PDF**](https://link.springer.com/content/pdf/10.1007/s40996-018-0218-9.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -263,6 +269,8 @@ Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshaghi**
 <div class='paper-box-text' markdown="1">
 
 [Sediment transport modeling in rigid boundary open channels using generalize structure of group method of data handling](https://www.sciencedirect.com/science/article/pii/S0022169419306717)
+
+*Journal of Hydrology*
 
 Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshaghi** 
 
