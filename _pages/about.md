@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 Mohammad Sadegh Eshaghi is currently a Ph.D. candidate in Computational Physics and Scientific Machine Learning, at Leibniz University Hannover. He completed his bachelor’s degree at Amirkabir University of Technology and earned his master’s degree in engineering at K. N. Toosi University of Technology. He has worked as a researcher at the International Center for Numerical Methods in Engineering [(CIMNE)](https://cimne.com/) in Spain and in [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en)’s group at the Institute of Structural Mechanics in Germany. His research interests include the integration of Deep Learning and Computational Mechanics (AI4Science).
@@ -203,7 +196,7 @@ Yizheng Wang, Jinshuai Bai, **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Xiaoyi
 
 [**PDF**](https://www.mdpi.com/1999-4893/14/10/288/pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- This paper presents a machine learning framework for predicting the seismic bearing capacity of shallow strip footings positioned above voids in heterogeneous soil. Using a dataset of 38,000 finite element limit analysis simulations, various ML techniques were compared: multilayer percep. The study accounts for variations in soil properties (undrained shear strength and internal friction angle), horizontal earthquake accelerations, and void characteristics (position, shape, and size). Results demonstrated that all ML techniques performed well, with the multilayer perceptron achieving the highest accuracy (R² = 0.9955, RMSE = 0.0158), offering a robust alternative to complex analytical models for this challenging geotechnical problem.
+- This paper presents a machine learning framework for predicting the seismic bearing capacity of shallow strip footings positioned above voids in heterogeneous soil. Using a dataset of 38,000 finite element limit analysis simulations, various ML techniques were compared. The study accounts for variations in soil properties (undrained shear strength and internal friction angle), horizontal earthquake accelerations, and void characteristics (position, shape, and size).
 
 </div>
 </div>
@@ -218,7 +211,7 @@ Mohammad Sadegh Barkhordari, **Mohammad Sadegh Eshaghi**
 
 [**PDF**](https://www.ije.ir/article_132523_33dd0188d8540b90707e424a9afbba4e.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- This study evaluates machine learning and hybrid models for predicting seismic responses of reinforced concrete shear walls under strong ground motions. Using OpenSees, four buildings (15, 20, 25, and 30 stories) with concrete shear walls were analyzed with 150 seismic records to create a comprehensive database linking record characteristics to structural responses. The models' accuracy in predicting shear wall responses was compared, and sensitivity analysis identified key input variables influencing seismic demand.
+- This study evaluates machine learning and hybrid models for predicting seismic responses of reinforced concrete shear walls under strong ground motions. Using OpenSees, four buildings (15, 20, 25, and 30 stories) with concrete shear walls were analyzed with 150 seismic records to create a comprehensive database linking record characteristics to structural responses.
 
 </div>
 </div>
