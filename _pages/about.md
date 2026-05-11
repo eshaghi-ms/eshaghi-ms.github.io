@@ -284,7 +284,7 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, Yizheng Wang, Xiaoying Zhuang, Timon Rabczuk
 
 [**PDF**](https://arxiv.org/pdf/2605.04832) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We propose a representation-based continual learning framework for data-driven PDE solvers that enables efficient adaptation to new tasks while preserving knowledge from previously learned domains.
+-   We propose a representation-based continual learning framework for ML-based PDE solvers that enables efficient adaptation to new tasks while preserving knowledge from previously learned domains.
 </div>
 </div>
 
