@@ -1,9 +1,10 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Mohammad Sadegh Eshaghi - Ph.D. Candidate in Scientific Machine Learning"
+excerpt: "Mohammad Sadegh Eshaghi - Ph.D. Candidate in Computational Physics and Scientific Machine Learning at Leibniz University Hannover"
 author_profile: true
-redirect_from: 
+sitemap: true
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -21,11 +22,11 @@ His work aims to develop efficient and scalable computational models for complex
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/NOWS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers](https://arxiv.org/abs/2511.02481)
+[NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers](https://www.sciencedirect.com/science/article/pii/S0045782526002628)
 
 **Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, Yizheng Wang, Xiaoying Zhuang, Timon Rabczuk
 
-[**PDF**](https://arxiv.org/abs/2511.02481) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**PDF**](https://www.sciencedirect.com/science/article/pii/S0045782526002628/pdfft?md5=da704274213fcac29ce70439b5236627&pid=1-s2.0-S0045782526002628-main.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -   We propose Neural Operator Warm Starts (NOWS), a hybrid strategy that harnesses learned solution operators to accelerate classical iterative solvers by producing high-quality initial guesses for Krylov methods such as conjugate gradient and GMRES. NOWS integrates seamlessly with existing discretizations (finite-difference, finite-element, isogeometric analysis, finite volume method, etc.), consistently reducing iteration counts and computational time by up to 90%, while preserving the stability and convergence guarantees of traditional numerical algorithms.
 </div>
 </div>
