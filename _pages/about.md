@@ -282,7 +282,7 @@ Mir Jafar Sadegh Safari, Isa Ebtehaj, Hossein Bonakdari, **Mohammad Sadegh Eshag
 
 [Replay-Based Continual Learning for Physics-Informed Neural Operators](https://arxiv.org/abs/2605.04832)
 
-**Mohammad Sadegh Eshaghi**, Cosmin Anitescu, Navid Valizadeh, Yizheng Wang, Xiaoying Zhuang, Timon Rabczuk
+Yizheng Wang, **Mohammad Sadegh Eshaghi**, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
 
 [**PDF**](https://arxiv.org/pdf/2605.04832) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -   We propose a replay-based continual learning framework for ML-based PDE solvers that enables efficient adaptation to new tasks while preserving knowledge from previously learned domains.
